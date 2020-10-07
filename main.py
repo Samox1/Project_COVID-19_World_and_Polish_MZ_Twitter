@@ -10,3 +10,6 @@
 #       2) Visualization for data from Poland - Twitter = Ministry of Health (Poland)
 #           2.1) Scraping Twitter: https://twitter.com/MZ_GOV_PL
 #               2.1.1) Vis deaths from Twitter (scrap + regex)
+#                   2.1.1.1) Scrap Twitter: GetOldTweets3 : https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
+
+
