@@ -12,4 +12,18 @@
 #               2.1.1) Vis deaths from Twitter (scrap + regex)
 #                   2.1.1.1) Scrap Twitter: GetOldTweets3 : https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
 
+import wget
+import pandas as pd
+import plotly
+import bokeh
+import folium
 
+
+# Download file with COVID-19 Data = refresh every day
+file_url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
+#confirmed_global_file = wget.download(file_url, "time_series_covid19_confirmed_global.csv")
+
+
+# Import Confirmed Data
+confirmed_global = pd.read_csv(file_url)
+print(confirmed_global.head(10))
