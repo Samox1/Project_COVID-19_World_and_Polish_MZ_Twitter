@@ -12,7 +12,6 @@
 #               2.1.1) Vis deaths from Twitter (scrap + regex)
 #                   2.1.1.1) Scrap Twitter: GetOldTweets3 : https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
 
-import wget
 import pandas as pd
 import plotly
 import bokeh
@@ -27,3 +26,7 @@ file_url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/css
 # Import Confirmed Data
 confirmed_global = pd.read_csv(file_url)
 print(confirmed_global.head(10))
+
+print(confirmed_global[confirmed_global['Country/Region'] == 'Poland'])
+confirmed_Poland = confirmed_global[confirmed_global['Country/Region'] == 'Poland']
+print(confirmed_Poland)
