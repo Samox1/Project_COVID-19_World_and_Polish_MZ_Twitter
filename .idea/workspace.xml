@@ -49,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -113,29 +113,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1602277383399">
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1602455920290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602277383399" />
-    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1602277383399">
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
+    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1602455920290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602277383399" />
-    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1602277383399">
+    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
+    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1602455920290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602277383399" />
-    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1602277383399">
+    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1602455920290">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602277383399" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1602171292251">
+    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1602443780498">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602171292251" />
-    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1602193562246">
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602443780498" />
+    <state x="921" y="426" width="700" height="530" key="recent.locations.popup" timestamp="1602446600333">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602193562246" />
+    <state x="921" y="426" width="700" height="530" key="recent.locations.popup/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602446600333" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1602443657385">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602443657385" />
   </component>
 </project>
