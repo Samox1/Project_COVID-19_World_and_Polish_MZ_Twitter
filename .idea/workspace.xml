@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1e8d6fd-9087-4f8c-8491-b374e5347b54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -39,6 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="64f475e0-92ac-4b0e-a113-c33e71aa6e0a" />
   <component name="ProjectId" id="1ibLCCv7fVXHpGndIGjFucGrSI9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,6 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -79,6 +80,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -91,14 +93,12 @@
       <updated>1602109527932</updated>
       <workItem from="1602109529440" duration="2350000" />
       <workItem from="1602113005103" duration="136000" />
+      <workItem from="1602503423377" duration="28857000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2486000" />
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -113,22 +113,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1602455920290">
+    <state width="1356" height="225" key="GridCell.Tab.0.bottom" timestamp="1602545608829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
-    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1602455920290">
+    <state width="1356" height="225" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602545608829" />
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@2560.160.1024.1240" timestamp="1602511051844" />
+    <state width="2517" height="346" key="GridCell.Tab.0.bottom/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@3584.160.1280.984" timestamp="1602526985277" />
+    <state width="1356" height="225" key="GridCell.Tab.0.center" timestamp="1602545608829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
-    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1602455920290">
+    <state width="1356" height="225" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602545608829" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@2560.160.1024.1240" timestamp="1602511051844" />
+    <state width="2517" height="346" key="GridCell.Tab.0.center/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@3584.160.1280.984" timestamp="1602526985277" />
+    <state width="1356" height="225" key="GridCell.Tab.0.left" timestamp="1602545608829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
-    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1602455920290">
+    <state width="1356" height="225" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602545608829" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@2560.160.1024.1240" timestamp="1602511051844" />
+    <state width="2517" height="346" key="GridCell.Tab.0.left/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@3584.160.1280.984" timestamp="1602526985277" />
+    <state width="1356" height="225" key="GridCell.Tab.0.right" timestamp="1602545608829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602455920290" />
+    <state width="1356" height="225" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602545608829" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@2560.160.1024.1240" timestamp="1602511051844" />
+    <state width="2517" height="346" key="GridCell.Tab.0.right/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@3584.160.1280.984" timestamp="1602526985277" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1602443780498">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -141,5 +149,8 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602443657385" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_COVID_19_World_and_Polish_MZ_Twitter$main.coverage" NAME="main Coverage Results" MODIFIED="1602545540797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
