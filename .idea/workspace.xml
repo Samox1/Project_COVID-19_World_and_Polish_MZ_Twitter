@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e8d6fd-9087-4f8c-8491-b374e5347b54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +93,7 @@
       <workItem from="1602109529440" duration="2350000" />
       <workItem from="1602113005103" duration="136000" />
       <workItem from="1602503423377" duration="28857000" />
+      <workItem from="1605786391025" duration="200000" />
     </task>
     <servers />
   </component>
@@ -113,6 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="442" key="FileChooserDialogImpl" timestamp="1605786547543">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="488" y="442" key="FileChooserDialogImpl/0.0.2560.1400/-1280.58.1280.984/2560.69.1024.1240@0.0.2560.1400" timestamp="1605786547543" />
     <state width="1356" height="225" key="GridCell.Tab.0.bottom" timestamp="1602545608829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -149,8 +153,5 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3584.160.1280.984/2560.160.1024.1240@0.0.2560.1400" timestamp="1602443657385" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Project_COVID_19_World_and_Polish_MZ_Twitter$main.coverage" NAME="main Coverage Results" MODIFIED="1602545540797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -126,3 +126,4 @@ dmypy.json
 
 .idea/
 PL_confirmed.html
+*.xml
